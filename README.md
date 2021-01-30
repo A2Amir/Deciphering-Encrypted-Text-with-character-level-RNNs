@@ -22,3 +22,4 @@
  'HE DISLIKES GRAPEFRUIT , LIMES , AND LEMONS .']
 ~~~
  
+** To run the project go to the project notebook [Deciphering Code with Character-Level RNN](https://github.com/A2Amir/Deciphering-Encrypted-Text-with-character-level-RNNs/blob/main/Deciphering%20Code%20with%20Character-Level%20RNN.ipynb) and follow the instructions inside it.**
